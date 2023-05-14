@@ -58,7 +58,7 @@ export default function Contact() {
             </div>
           </div>
         </div>
-        <form
+        {/* <form
           netlify
           name="contact"
           onSubmit={handleSubmit}
@@ -114,7 +114,7 @@ export default function Contact() {
           >
             Submit
           </button>
-        </form>
+        </form> */}
       </div>
     </section>
   );
