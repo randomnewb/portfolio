@@ -8,7 +8,7 @@ export default function About() {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hello, my name is Tu.
             <br className="hidden lg:inline-block" /> <br /> And I am a Software
-            Engineer!
+            Engineer.
           </h1>
           <br />
           <p className="mb-8 leading-relaxed">
@@ -21,7 +21,7 @@ export default function About() {
           </p>
           <div className="flex justify-center">
             <a
-              href="#contact"
+              href="mailto:nguy1581@gmail.com"
               className="inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg"
             >
               Want to Chat? Contact Me.
@@ -36,7 +36,7 @@ export default function About() {
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
-            className="object-cover object-center rounded"
+            className="object-cover rounded-full object-center"
             alt="hero"
             src="./headshot.jpg"
           />

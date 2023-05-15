@@ -53,7 +53,7 @@ export default function Contact() {
                 EMAIL
               </h2>
               <a className="text-indigo-400 leading-relaxed">
-                nguy1581@gmail.com
+                <a href="mailto:nguy1581@gmail.com">nguy1581@gmail.com</a>
               </a>
             </div>
           </div>
